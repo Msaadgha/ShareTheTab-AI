@@ -51,10 +51,6 @@ ShareTheTab eliminates the stress with intelligent scanning, simple item assignm
 
 📊 Bill history and analytics
 
-🤝 Contribute
-#OpenSource #FlutterCommunity
-We’d love your help!
-Feel free to fork the repo, open issues, and send pull requests 🚀
 
 📬 Stay in Touch
 #Contact #BuiltWithLove
